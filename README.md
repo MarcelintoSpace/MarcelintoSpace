@@ -25,3 +25,7 @@ N'hésitez pas à me contacter 📮
     - Wallet integration <br/>
     - Merchant integration <br/>
 </details>
+
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelintoSpace)](https://github.com/anuraghazra/github-readme-stats)
