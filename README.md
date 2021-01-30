@@ -6,9 +6,9 @@
 
 Grâce à ma passion et ma curiosité, je crée des Sites internet, conçoit de la réalité virtuelle et de la réalité augmantée.
 
-Le Futur est maintenant au monnaie électronique.
+Le Futur est maintenant aux monnaies électroniques.
 
-Vous pourrez trouver des plugins et une wallet pour le DIEM la future crypto mondiale ⚡
+Vous pourrez trouver des plugins et une wallet pour le DIEM, la future crypto mondiale ⚡
 
 N'hésitez pas à me contacter 📮
 
