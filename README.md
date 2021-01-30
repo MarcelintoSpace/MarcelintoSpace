@@ -1,16 +1,27 @@
-### Hi there 👋
+![MarcelintoSpace](https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/fond.png)
 
-<!--
-**MarcelintoSpace/MarcelintoSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenue sur Mon Github 👋
 
-Here are some ideas to get you started:
+### Je suis un Développeur touche à tout ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Grâce à ma passion et ma curiosité, je crée des Sites internet, conçoit de la réalité virtuelle et de la réalité augmantée.
+
+Le Futur est maintenant au monnaie électronique.
+
+Vous pourrez trouver des plugins et une wallet pour le DIEM la future crypto mondiale ⚡
+
+N'hésitez pas à me contacter 📮
+
+<p align=center>
+  <a href="https://www.linkedin.com/in/benjaminnedelec/"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon1.png"/></a>
+  <a href="https://twitter.com/NedelecBenjamin"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCyq-kN_U3a6mELoqgJSIK5A"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon3.png"/></a>
+</p>
+
+
+<details>
+  <summary><strong>Ce que j'apprends/travail en ce moment :</strong><summary>
+    * Core Concept <br/>
+    * Wallet integration <br/>
+    * Merchant integration <br/>
+</details>
