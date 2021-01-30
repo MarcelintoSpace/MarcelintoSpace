@@ -14,8 +14,8 @@ N'hésitez pas à me contacter 📮
 
 <p align=center>
   <a href="https://www.linkedin.com/in/benjaminnedelec/"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon11.png"/></a>
-  <a href="https://twitter.com/NedelecBenjamin"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon2.png"/></a>
-  <a href="https://www.youtube.com/channel/UCyq-kN_U3a6mELoqgJSIK5A"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon3.png"/></a>
+  <a href="https://twitter.com/NedelecBenjamin"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon22.png"/></a>
+  <a href="https://www.youtube.com/channel/UCyq-kN_U3a6mELoqgJSIK5A"><img height="24" src="https://github.com/MarcelintoSpace/MarcelintoSpace/blob/main/icon33.png"/></a>
 </p>
 
 
