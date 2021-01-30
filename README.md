@@ -21,7 +21,7 @@ N'hésitez pas à me contacter 📮
 
 <details>
   <summary><strong>Ce que j'apprends/travail en ce moment :</strong><summary>
-    * Core Concept <br/>
-    * Wallet integration <br/>
-    * Merchant integration <br/>
+    - Core Concept <br/>
+    - Wallet integration <br/>
+    - Merchant integration <br/>
 </details>
